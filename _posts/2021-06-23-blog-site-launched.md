@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A new blog, Horrible Cop, Launches Site"
+title: "A new blog, test launching a site"
 date: 2021-06-23
 ---
 
